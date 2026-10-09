@@ -1,0 +1,8 @@
+{
+  "name": "vim-keys",
+  "version": "0.1.0",
+  "description": "/vim toggles a pane with a beginner cheat sheet for Neovim + NvChad keys. /vim <word> filters it.",
+  "author": { "name": "AliakbarNateghi" },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}

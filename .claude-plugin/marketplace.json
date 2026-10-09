@@ -1,0 +1,6 @@
+{
+  "name": "cc-vim-keys",
+  "owner": { "name": "AliakbarNateghi" },
+  "plugins": [{ "name": "vim-keys", "source": "./" }],
+  "description": "vim-keys: Neovim + NvChad cheat sheet pane for Claude Code."
+}
